@@ -20,7 +20,7 @@ const greet = (names) => {
   } else {
     greeting = 'Buonasera';
   }
-  return `${greeting} ${name}.`;
+  return `${greeting} ${names}.`;
 }
 /*
 -----Funzione con nome-----
